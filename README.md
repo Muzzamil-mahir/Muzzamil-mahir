@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muzzamil-mahir
-- 👀 I’m interested in ...Computer Science , Anime, VIdeo Games
+- 👀 I’m interested in ...Computer Science , Anime, Video Games
 - 🌱 I’m currently learning ... Deep Learning
 - 💞️ I’m looking to collaborate on ... open Source of any kind
 - 📫 How to reach me ...mdmahir5803@gmail.com
